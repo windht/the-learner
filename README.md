@@ -1,6 +1,9 @@
 # The Learner
 A decentralized learning platform. The project for Angel Hack Hong Kong 2018. [Online Demo](https://thebuilder.hk/board/web/?project_id=1TzGkkrJqV#!/app/entrance)
 
+[Slides](https://docs.google.com/presentation/d/1Ue27A41UhdkPX4MAqewQdKxhQjvyYf6l5I1qaEz187M/edit?usp=sharing)
+
+
 # Decentralization
 Course json file, no matter created by publihsers or received by students, are based on IPFS.
 
